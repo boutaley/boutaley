@@ -38,8 +38,8 @@ Outils d’analyse de risque crédit et calculs réglementaires (RWA, CCF) dans 
 
 ## 📫 Me contacter
 
-- ✉️ [LinkedIn](https://www.linkedin.com/in/ton-nom/)  
-- 📧 youssef.boutaleb@email.com  
+- ✉️ [LinkedIn](https://www.linkedin.com/in/boutaleb-youssef/)  
+- 📧 boutaley.youssef@gmail.com  
 - 📍 Paris / Londres (mobilité internationale)
 
 ---
