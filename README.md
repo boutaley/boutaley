@@ -27,20 +27,14 @@ Clean Python implementation of core quantitative finance models (CAPM, Black-Sch
 🔹 [**quant-strategies-backtest**](https://github.com/<your-username>/quant-strategies-backtest)  
 Backtesting of momentum and mean-reversion strategies with performance analytics and metrics
 
-🔹 [**quant-microservices-platform**](https://github.com/<your-username>/quant-microservices-platform)  
-Modular FastAPI-based architecture for pricing and delta hedging — designed for scalability and experimentation
-
 🔹 [**ml-in-finance**](https://github.com/<your-username>/ml-in-finance)  
 Machine Learning in finance: volatility forecasting, market regime detection, and NLP on financial news
-
-🔹 [**credit-risk-syndication-tools**](https://github.com/<your-username>/credit-risk-syndication-tools)  
-Credit risk and regulatory capital (Basel IV: RWA, CCF) tools for syndicated loan portfolio analysis
 
 ---
 
 ### 💻 C++ / C# Projects
 
-🔹 [**pricing-hedging-engine-cpp**](https://github.com/<your-username>/pricing-hedging-engine-cpp)  
+🔹 [**pricing-hedging-engine**](https://github.com/<your-username>/pricing-hedging-engine-cpp)  
 A real-time pricing and delta hedging engine for vanilla options, implemented in C++ for performance and modularity. Focus on risk-neutral pricing, greeks, and hedging simulation with multithreading and low-latency patterns.
 
 🔹 [**quant-tools-lib**](https://github.com/<your-username>/quant-tools-lib)  
