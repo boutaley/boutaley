@@ -34,7 +34,7 @@ Machine Learning in finance: volatility forecasting, market regime detection, an
 
 ### 💻 C++ / C# Projects
 
-🔹 [**pricing-hedging-engine**](https://github.com/<your-username>/pricing-hedging-engine-cpp)  
+🔹 [**pricing-hedging-engine**](https://github.com/boutaley/pricing-hedging-engine-dotnet)  
 A real-time pricing and delta hedging engine for vanilla options, implemented in C++ for performance and modularity. Focus on risk-neutral pricing, greeks, and hedging simulation with multithreading and low-latency patterns.
 
 🔹 [**quant-tools-lib**](https://github.com/<your-username>/quant-tools-lib)  
